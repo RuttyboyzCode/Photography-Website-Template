@@ -39,4 +39,9 @@ This project is open source. Use it freely for personal or educational projects.
 
 ---
 
-Made with ❤️ and deer photography in mind.
+## 🎯 Updates
+
+Github Pages site seems to not load all photos
+> 💡 Tip: You can use the domain: https://a-website-template.pages.dev 
+
+
